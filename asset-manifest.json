@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.94f91a1e.css",
+    "main.js": "/static/js/main.c47ca854.js",
+    "static/js/787.4791f4d1.chunk.js": "/static/js/787.4791f4d1.chunk.js",
+    "static/media/sub-bg.jpg": "/static/media/sub-bg.42556b3a03a8c551ebb0.jpg",
+    "static/media/ionicons50c9.svg?v=4.5.9-1": "/static/media/ionicons50c9.bb0605ccfbc8cbabadc5.svg",
+    "static/media/11.png": "/static/media/11.563ff86ca4756fe72c4f.png",
+    "static/media/ionicons50c9.eot?v=4.5.9-1": "/static/media/ionicons50c9.52cc4717a7334500d1bf.eot",
+    "static/media/ionicons50c9.ttf?v=4.5.9-1": "/static/media/ionicons50c9.bbef0241a610f92e1e66.ttf",
+    "static/media/dash-preview-dark.png": "/static/media/dash-preview-dark.aaca97a91b32ccb7c019.png",
+    "static/media/dash-preview.png": "/static/media/dash-preview.46603e29eb311e891a2e.png",
+    "static/media/8.png": "/static/media/8.3ee1ddaf2cf14d1576ee.png",
+    "static/media/ionicons50c9.woff?v=4.5.9-1": "/static/media/ionicons50c9.bf69b013f69d1f0c2f6c.woff",
+    "static/media/ionicons50c9.woff2?v=4.5.9-1": "/static/media/ionicons50c9.175f391f238cd7deffa8.woff2",
+    "static/media/10.png": "/static/media/10.87c243c5c382eb3bbe43.png",
+    "static/media/13.png": "/static/media/13.29e5805140341b23ae35.png",
+    "static/media/4.png": "/static/media/4.264d43e5896e3ed769eb.png",
+    "static/media/12.png": "/static/media/12.bd74ba99a3f7efb14be4.png",
+    "static/media/6.png": "/static/media/6.160879f7d0e3490ef5e0.png",
+    "static/media/9.png": "/static/media/9.3a12fd6f08e3cca72f15.png",
+    "static/media/15.png": "/static/media/15.7cf7845bb296c7e72ec4.png",
+    "static/media/trade.svg": "/static/media/trade.32b375eea80a9e2eb045a98aa31b05a5.svg",
+    "static/media/bank.svg": "/static/media/bank.a4923ecad2477672a11de680467fbaa0.svg",
+    "static/media/managment.svg": "/static/media/managment.4da845e07e99ed44dee3851cc489c03b.svg",
+    "static/media/logo-light.svg": "/static/media/logo-light.72b472e1560525399e21e2a08ad1e72e.svg",
+    "static/media/stroge.svg": "/static/media/stroge.23e440d890d13813ab22615ac80c4af8.svg",
+    "static/media/mCSB_buttons.html": "/static/media/mCSB_buttons.61987bad48c8a32b1cb4.html",
+    "static/media/backup.svg": "/static/media/backup.43323e0d336962ff994e33bf705c254a.svg",
+    "static/media/user.svg": "/static/media/user.b040704650735b299ee0605e115af14a.svg",
+    "index.html": "/index.html",
+    "main.94f91a1e.css.map": "/static/css/main.94f91a1e.css.map",
+    "main.c47ca854.js.map": "/static/js/main.c47ca854.js.map",
+    "787.4791f4d1.chunk.js.map": "/static/js/787.4791f4d1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94f91a1e.css",
+    "static/js/main.c47ca854.js"
+  ]
+}
